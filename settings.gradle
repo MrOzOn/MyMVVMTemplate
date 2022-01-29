@@ -1,4 +1,9 @@
 pluginManagement {
+    plugins {
+        id 'com.android.application' version "${gradlePluginVersion}"
+        id 'com.android.library' version "${gradlePluginVersion}"
+        id 'org.jetbrains.kotlin.android' version "${kotlinVersion}"
+    }
     repositories {
         gradlePluginPortal()
         google()
