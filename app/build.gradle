@@ -38,6 +38,8 @@ android {
 
 dependencies {
 
+    implementation project(":core-mvvm")
+
     // Navigation
     implementation "androidx.navigation:navigation-fragment-ktx:$navigationVersion"
     implementation "androidx.navigation:navigation-ui-ktx:$navigationVersion"

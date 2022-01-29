@@ -4,6 +4,7 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.19610507246376813" />
         <entry key="core-mvvm/src/main/res/drawable/ic_error.xml" value="0.2085" />
         <entry key="core-mvvm/src/main/res/drawable/ic_success.xml" value="0.2085" />
         <entry key="core-mvvm/src/main/res/layout/fragment_my_info_dialog.xml" value="0.19610507246376813" />

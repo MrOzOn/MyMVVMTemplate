@@ -20,7 +20,9 @@ abstract class BaseFragment<T : ViewDataBinding>: Fragment(){
     @LayoutRes
     abstract fun getLayoutId(): Int
 
-    abstract fun subscribeUi()
+    open fun subscribeUi() {
+
+    }
 
     override fun onCreateView(
         inflater: LayoutInflater,
