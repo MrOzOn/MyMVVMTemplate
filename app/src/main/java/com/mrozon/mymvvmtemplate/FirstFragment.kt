@@ -10,6 +10,6 @@ class FirstFragment: BaseFragment<FragmentFirstBinding>(){
     override fun getLayoutId() = R.layout.fragment_first
 
     override fun subscribeUi() {
-        TODO("Not yet implemented")
+
     }
 }
